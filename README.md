@@ -1,48 +1,95 @@
 # Hi, I'm Shanteshwar Birajdar 👋
 
-### Angular Developer | Frontend Developer
+### 💻 Angular Developer | Frontend Developer
 
-I'm a Frontend Developer with **3 years of professional experience**, including **2.6 years of Angular development experience**. 
-I specialize in building responsive, reusable, and user-friendly web applications using Angular, TypeScript, JavaScript, HTML5, and SCSS.
+I'm a Frontend Developer with **3 years of professional experience**, specializing in building responsive, reusable, and user-friendly web applications using Angular, TypeScript, JavaScript, HTML5, CSS3, and RxJS.
 
-I enjoy developing clean UI components, integrating REST APIs, solving frontend challenges, and writing maintainable code.
+I have experience developing reusable UI components, integrating REST APIs, implementing JWT authentication and role-based access control, building reactive forms, and optimizing application performance.
+
+I enjoy solving frontend challenges, writing clean and maintainable code, and creating intuitive user experiences.
+
+---
 
 ## 🛠️ Technical Skills
 
-- **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3, SCSS
-- **Angular:** Components, Directives, Pipes, Services, Routing, Reactive Forms, Lazy Loading
-- **RxJS:** Observables, Subject, BehaviorSubject, Operators
-- **API Integration:** REST APIs, HttpClient, HTTP Interceptors, Error Handling
-- **Tools:** Git, GitHub, Visual Studio Code, Chrome DevTools
-- **Fundamentals:** Responsive Web Design, Component Reusability, Debugging
+- **Frontend Technologies:** Angular, TypeScript, JavaScript ES6+, HTML5, CSS3, Bootstrap, Angular Material
+- **Angular Concepts:** Components, Modules, Data Binding, Directives, Pipes, Services, Routing, Route Guards, Lazy Loading
+- **Forms:** Reactive Forms, Form Validation, Custom Validators
+- **RxJS:** Observables, Subjects, BehaviorSubjects, Asynchronous Data Handling
+- **API Integration:** REST APIs, Angular HttpClient, JSON, HTTP Interceptors
+- **Authentication & Security:** JWT Authentication, Role-Based Access Control (RBAC)
+- **Development Tools:** Git, GitHub, Visual Studio Code, Chrome DevTools, Postman
 
-## 🚀 Featured Projects
+---
 
-### 1. Health-Sync - Employee Management System
-- Developed reusable Angular components and responsive UI screens.
-- Implemented employee CRUD operations and reactive form validation.
-- Integrated REST APIs and implemented search, filtering, and pagination.
+## 🚀 Professional Projects
 
-### 2. E-commerce Frontend
-- Built product listing, product details, and shopping cart functionality.
-- Used Angular services and RxJS for data sharing and state management.
-- Implemented routing and responsive layouts.
+### 1. 🛠️ Service Request Management Application
 
-### 3. Task Management Application
-- Developed task creation, updating, deletion, and filtering features.
-- Implemented component communication and shared services.
-- Focused on maintainable code and user-friendly UI design.
+**Domain:** Service Management
 
-## 📚 Currently Improving
+**Technologies:** Angular, TypeScript, RxJS, REST APIs, JWT
 
-- Advanced Angular concepts and application performance
-- RxJS and reactive programming
-- Unit testing and code quality
-- Frontend architecture and design patterns
+- Developed reusable Angular components and responsive interfaces for service management workflows.
+- Designed and implemented modules for User Management, Service Requests, and Reporting.
+- Integrated REST APIs to retrieve, submit, and update application data.
+- Implemented JWT authentication and role-based authorization to secure application features.
+- Developed reactive forms with validation for user registration and service request workflows.
+- Implemented Angular Routing for navigation between dashboards and application modules.
+- Used TypeScript and RxJS Observables for application logic and asynchronous data handling.
+- Tested API functionality using Postman and debugged frontend issues using Chrome DevTools.
+
+### 2. 🏥 Health Sync — Healthcare Management Application
+
+**Domain:** Healthcare
+
+**Technologies:** Angular, TypeScript, Angular Material, RxJS, REST APIs
+
+- Developed responsive healthcare application screens using Angular, TypeScript, Angular Material, HTML5, and CSS3.
+- Built reusable components for appointment booking, patient management, and user workflows.
+- Implemented appointment booking, rescheduling, and cancellation functionality.
+- Developed role-based dashboards for Admin, Doctor, Staff, and Patient users.
+- Created reactive forms with custom validation for registration, appointments, and profile management.
+- Integrated REST APIs to manage appointments, patient records, and doctor availability.
+- Implemented JWT authentication, Route Guards, and Role-Based Access Control (RBAC).
+- Used RxJS Observables, Subjects, and BehaviorSubjects for asynchronous data handling and state sharing.
+- Implemented HTTP Interceptors for authentication token handling and lazy loading to optimize application performance.
+- Tested API functionality using Postman and debugged frontend issues using Chrome DevTools.
+
+### 3. 🏡 Real Estate Management Application
+
+**Domain:** Real Estate
+
+**Technologies:** Angular, TypeScript, Bootstrap, RxJS, REST APIs
+
+- Developed responsive and reusable Angular components for property listings, property details, and user workflows.
+- Implemented property search and filtering based on location, property type, price range, and other criteria.
+- Integrated REST APIs to retrieve and submit property and user-related data.
+- Implemented Angular Routing for navigation between property listings, property details, authentication, and application modules.
+- Developed reactive forms and validation for user registration, login, search, and property-related workflows.
+- Used TypeScript and RxJS Observables to manage application logic and asynchronous API responses.
+- Implemented lazy loading and code splitting to improve application performance and reduce initial loading time.
+- Created responsive user interfaces using HTML5, CSS3, Bootstrap, and Angular.
+- Tested API functionality using Postman and debugged frontend issues using Chrome DevTools.
+- Collaborated with backend developers and UI/UX teams to integrate APIs and deliver user-friendly features.
+
+
+## 💼 Professional Experience
+
+- **VDA Infosolutions Private Limited, Pune** — Angular Developer
+- **Zest India IT Service, Pune** — Angular Developer
+
+## 🎓 Education
+
+- **Bachelor of Technology (B.Tech)** — Fabtech Technical Campus & COE, Sangola (2019–2022)
+- **Diploma (MSBTE)** — Shivaji Polytechnic College, Sangola (2017–2019)
+
+---
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/shanteshwar-birajdar-677151434/)
-- **Email:** Shanteshwarbirajdar91@gmail.com
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/shanteshwar-birajdar-677151434](https://www.linkedin.com/in/shanteshwar-birajdar-677151434)
+- 📧 **Email:** [Shanteshwarbirajdar91@gmail.com](mailto\:Shanteshwarbirajdar91@gmail.com)
+- 📍 **Location:** Pune, Maharashtra, India
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
